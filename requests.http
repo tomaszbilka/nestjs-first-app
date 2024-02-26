@@ -9,7 +9,7 @@ POST http://localhost:3000/messages
 content-type: application/json
 
 {
-    "content":"second message here!"
+    "content":"content of message"
 }
 
 
